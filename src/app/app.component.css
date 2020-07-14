@@ -1,0 +1,10 @@
+div {
+    margin: 5em;
+}
+button{
+    margin: 10px;
+}
+
+input {
+    display: flex;
+}
